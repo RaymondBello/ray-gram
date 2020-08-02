@@ -6,7 +6,7 @@
 
 This is a web-based photo library app created using React, derived from the idea of the Instagram profile page. Created to showcase various uploaded artworks and fashion shoots.
 
-<img src="/Videos/ray-gram.gif?raw=true" width="600px">
+<img src="/Videos/ray-gram.gif?raw=true" width="700px">
 
 ## Table of contents
 * [General Info](#general-info)
