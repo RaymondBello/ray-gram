@@ -7,8 +7,8 @@
 This is a web-based photo library app created using React, derived from the idea of the Instagram profile page. Created to showcase various uploaded artworks and fashion shoots.
 
 
-![ray-gram.gif](https://www.dropbox.com/s/6lku89gs010f8iw/ray-gram.gif?dl=0&raw=1)
 
+<img src="/Videos/ray-gram.gif?raw=true" width="600px">
 ## Table of contents
 * [General Info](#general-info)
 * [Sources](#sources)
