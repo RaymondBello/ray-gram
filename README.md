@@ -28,6 +28,7 @@ I broke down the project into several parts to simplify the design process as we
 * [Progress Bar](#progress-bar)
 * [Firestore hook and showing images](#firestore-hook-and-showing-images)
 * [Creating the modal](#creating-the-modal)
+* [Upcoming Features](#upcoming-features)
 ## Project Structure
 Inside the source folder we have ```index.js``` the file that kickstarts the react application. ```App.js``` which is the root component. And all we're essentially doing is nesting custom components inside of the main app. All the components are placed in ```src/comps```. The title component is the first component to be rendered by the React app. This is the header part of the webpage (```src/comps/Title.js```).
 ```javascript
@@ -259,9 +260,12 @@ const Modal = ({ setSelectedImg, selectedImg }) => {
   )
 }
 ```
-
+## Upcoming Features
+These are some features that are currently being added:
+* Delete images from the modal view
+* Add upvotes and downvotes for each image
+* Add a shareable link for other platforms (eg. Twitter,Facebook and Reddit)
 
 # Sources
-
 *"If I have seen further than others, it is by standing upon the shoulders of giants."*
 * Myself and the cool people on stack overflow.
