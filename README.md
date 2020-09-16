@@ -10,7 +10,7 @@ This is a web-based photo library app created using React, derived from the idea
 
 # Table of contents
 * [General Info](#general-info)
-* [How to make your own Photo Library app](#how-it's-made)
+* [How It's Made](#how-its-made)
 * [Sources](#sources)
 
 
